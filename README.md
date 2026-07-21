@@ -1,12 +1,12 @@
-# 💳 Payment Form Project (HTML Only)
+#  Payment Form Project (HTML Only)
 
-## 📌 Overview
+##  Overview
 
 This project is a simple **Payment Form** created using only **HTML**. It demonstrates how to design a structured and user-friendly form for collecting payment details such as personal information, card details, and billing information.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * User-friendly payment form layout
 * Input fields for:
@@ -23,13 +23,13 @@ This project is a simple **Payment Form** created using only **HTML**. It demons
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5** (No CSS, No JavaScript)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 payment-form/
@@ -40,7 +40,7 @@ payment-form/
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Download or clone this repository
 2. Open the `index.html` file in any web browser
@@ -49,7 +49,7 @@ payment-form/
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * No styling (CSS not used)
 * No form validation beyond basic HTML attributes
@@ -58,7 +58,7 @@ payment-form/
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project is created for:
 
@@ -68,7 +68,7 @@ This project is created for:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add CSS for better design
 * Add JavaScript for advanced validation
@@ -76,7 +76,7 @@ This project is created for:
 
 ---
 
-## 👨‍💻 Author
+## Author
 ANUSKA YADAV
 
 ---
