@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment form</title>
+</head>
+<body>
+    <form>
+        <h1>PAYMENT FORM</h1>
+        <h2>Contact information</h2>
+        <p>Name: <input type="text" name="name" id="name" placeholder="ENTER YOUR NAME" required></p>
+        <p>
+            <legend>GENDER:</legend>
+            Male<input type="radio" name="gender" id="gender1" required>
+            FeMale<input type="radio" name="gender" id="gender2" required>
+        </p>
+        <P>ADDRESS : <textarea name="address" id="address" cols="100" rows="8"></textarea></P>
+        <p>EMAIL: <input type="email" name="email" id="email" placeholder="ENTER YOUR EMAIL" required></p>
+        <P>PINCODE :  <input type="number" name="pincode" id="pincode" placeholder="ENTER YOUR PINCODE" required></P>
+        <hr>
+        <h2>PAYMENT INFORMATION</h2>
+        <p>CARD TYPE :
+            <select name="card_type" id="card_type" required>
+                <option value="">--select the card type</option>
+                <option value="visa">visa</option>
+                <option value="RuPay">RupAY</option>
+                <option value="mastercard">Mastercard </option>
+            </select>
+        </p>
+        <p> CARD NUMBER : <input type="number" name="card_num" id="card_num" placeholder="ENTER CARD NUMBER" required></p>
+        <P> CARD EXPIRY DATE : <input type="date" name="date" id="date" required></P>
+        <p>CVV <input type="password" name="cvv" id="cvv" required placeholder="ENTER CVV"></p>
+        <button type="submit">Pay now</button>
+    </form>
+</body>
+</html>
